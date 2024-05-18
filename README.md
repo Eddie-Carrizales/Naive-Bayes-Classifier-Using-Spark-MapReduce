@@ -5,7 +5,7 @@ Dataset Used: https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analys
 
 Dataset Description: The following data is intended for advancing financial sentiment analysis research. It's two datasets (FiQA, Financial PhraseBank) combined into one easy-to-use CSV file. It provides financial sentences with sentiment labels.
 
-Instructions for running the code:
+### Instructions for running the code:
 1. Sign up for a free account on Databricks Community Edition.
 2. Import the notebook containing the code (.ipynb).
 3. Set up a Spark cluster.
